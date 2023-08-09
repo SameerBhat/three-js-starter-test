@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenDRIVE>
+    <header revMajor="1" revMinor="4" name="" version="0" date="2021-04-20T08:16:56" north="28.613291095942259" south="-0.0093513429164886475" east="27.502234837505966" west="-1.5135341612622142" vendor="ZF Friedrichshafen AG">
+        <geoReference><![CDATA[+proj=utm +zone=32 +ellps=WGS84 +datum=WGS84 +x_0=535963.66335450078 +y_0=5278251.2179422788 +k=0.9996 +units=m +no_defs]]></geoReference>
+    </header>
+    <road name="Road" length="40.701114816137434" id="1" junction="-1">
+        <link/>
+        <planView>
+            <geometry s="0" x="-1.5135938315652311" y="0.00030662026256322861" hdg="1.5434015104486938" length="2.5087383899120606">
+                <paramPoly3 aU="0" bU="1.0004248235533868" cU="0" dU="0.00011845851976388486" aV="0" bV="-1.0581813203458523e-16" cV="0" dV="0.00078525428615118466" pRange="arcLength"/>
+            </geometry>
+            <geometry s="2.5087383899120606" x="-1.457189630601873" y="2.5113783735425543" hdg="1.5581877024525441" length="2.9996851192061516">
+                <paramPoly3 aU="0" bU="1.0027710916500101" cU="0.00097882995329376388" dU="-0.00059357555458798182" aV="0" bV="-8.3266726846886741e-17" cV="0.0058961646121157094" dV="-0.0056151704113288703" pRange="arcLength"/>
+            </geometry>
+            <geometry s="5.5084235091182121" x="-1.3208551848760859" y="5.5106814847632357" hdg="1.4416497209758901" length="3.2513075099804203">
+                <paramPoly3 aU="0" bU="0.99939907185161192" cU="0.00085671715806137248" dU="-0.001671395825485986" aV="0" bV="-9.7144514654701197e-17" cV="-0.044839591575662627" dV="-0.00034756222020825538" pRange="arcLength"/>
+            </geometry>
+            <geometry s="8.7597310190986324" x="-0.42671158872969617" y="8.6224054445206448" hdg="1.1338841914000986" length="3.4435198280563046">
+                <paramPoly3 aU="0" bU="0.99890049632182576" cU="-0.00010997207537680881" dU="-0.0010057263628273092" aV="0" bV="-1.1102230246251565e-16" cV="-0.050642550167920894" dV="0.0018912602495070566" pRange="arcLength"/>
+            </geometry>
+            <geometry s="12.203250847154937" x="1.4849905866903339" y="11.479204146888369" hdg="0.8493160338662088" length="3.8066811645352381">
+                <paramPoly3 aU="0" bU="1.0026911732416632" cU="-0.0013449743662922713" dU="1.0207656064594069e-05" aV="0" bV="0" cV="-0.032801546281099686" dV="0.0021993885342407342" pRange="arcLength"/>
+            </geometry>
+            <geometry s="16.009932011690175" x="4.2593493782832477" y="14.097036084948289" hdg="0.69532487091451745" length="3.271148560996668">
+                <paramPoly3 aU="0" bU="1.0047849976639367" cU="-3.5202912595883647e-05" dU="-0.00053514392088151218" aV="0" bV="0" cV="-0.007781918309893999" dV="-0.0030402683092448008" pRange="arcLength"/>
+            </geometry>
+            <geometry s="19.281080572686843" x="6.8899532440459534" y="16.044783801732404" hdg="0.54603714819972882" length="3.6184651813941962">
+                <paramPoly3 aU="0" bU="0.99848175142954654" cU="0.0003669783707076664" dU="-0.00087509909284988474" aV="0" bV="-5.5511151231257827e-17" cV="-0.037985344923899038" dV="0.00053105654363397" pRange="arcLength"/>
+            </geometry>
+            <geometry s="22.899545754081039" x="10.191446388971173" y="17.498450705012722" hdg="0.28907532260638624" length="3.5629524886022281">
+                <paramPoly3 aU="0" bU="0.99958352228531311" cU="-0.00064408633438244392" dU="0.00017240003977809636" aV="0" bV="-1.1102230246251565e-16" cV="-0.033483587257964728" dV="0.0032278680102071095" pRange="arcLength"/>
+            </geometry>
+            <geometry s="26.462498242683267" x="13.684330797129704" y="18.246111326717369" hdg="0.17409375156712414" length="2.0157043853871457">
+                <paramPoly3 aU="0" bU="1.0082168465070398" cU="0.0010738919486864679" dU="-0.001779887560637266" aV="0" bV="2.7755575615628914e-17" cV="0.0011494295057085011" dV="0.0094986543809387324" pRange="arcLength"/>
+            </geometry>
+            <geometry s="28.478202628070413" x="15.661534539780259" y="18.677579666512482" hdg="0.2950273576429685" length="1.5424896230744842">
+                <paramPoly3 aU="0" bU="0.99814073339219733" cU="-0.0025504180854581324" dU="-0.0043933212913583588" aV="0" bV="5.5511151231257827e-17" cV="0.059329866677699954" dV="0.0056777030884007972" pRange="arcLength"/>
+            </geometry>
+            <geometry s="30.020692251144897" x="17.066298935215261" y="19.273796694547723" hdg="0.52407260482801488" length="1.1069144883161997">
+                <paramPoly3 aU="0" bU="0.98462894832683134" cU="-0.0028467900094087256" dU="-0.003760981234312873" aV="0" bV="-5.5511151231257827e-17" cV="0.088562552257158561" dV="0.00083553912237320851" pRange="arcLength"/>
+            </geometry>
+            <geometry s="31.127606739461097" x="17.947617908975509" y="19.909825568716865" hdg="0.72767439935780398" length="2.4906348630774922">
+                <paramPoly3 aU="0" bU="0.98484440594378997" cU="0.0034489221560493749" dU="-0.0011616265464138263" aV="0" bV="-5.5511151231257827e-17" cV="0.092551480722521062" dV="-0.010714606109804013" pRange="arcLength"/>
+            </geometry>
+            <geometry s="33.618241602538589" x="19.510059870722348" y="21.848715730367065" hdg="0.98845347544797102" length="2.5009757734514153">
+                <paramPoly3 aU="0" bU="1.0147149165533966" cU="-0.0018326859637293443" dU="-0.0024298511973366191" aV="0" bV="5.5511151231257827e-17" cV="0.013419205130954955" dV="0.0086691366165769224" pRange="arcLength"/>
+            </geometry>
+            <geometry s="36.119217375990004" x="20.695219719125891" y="24.047636233316076" hdg="1.2234140883009346" length="1.9062449769421974">
+                <paramPoly3 aU="0" bU="0.98707395457059965" cU="-0.0012458247469570062" dU="-0.0003605111198303956" aV="0" bV="1.6653345369377348e-16" cV="0.080978135735104109" dV="-0.0098327676358630801" pRange="arcLength"/>
+            </geometry>
+            <geometry s="38.025462352932202" x="21.120759963861492" y="25.887231167636365" hdg="1.4265614540267535" length="2.6756524632052319">
+                <paramPoly3 aU="0" bU="0.99893589547119799" cU="0.0017533313267760614" dU="-0.00021843037675076094" aV="0" bV="5.5511151231257827e-17" cV="0.024905550989056231" dV="-0.0031027386567762287" pRange="arcLength"/>
+            </geometry>
+        </planView>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes>
+            <laneSection s="0" singleSide="true">
+                <center>
+                    <lane id="0" type="driving" level="false">
+                        <link/>
+                        <roadMark sOffset="0" width="0.10000000000000001" height="0" type="solid" color="blue" laneChange="none" material="standard" weight="standard"/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="true">
+                        <link>
+                            <successor id="-1"/>
+                        </link>
+                        <border sOffset="0" a="-1.549281542319586" b="-0.00063214983934464786" c="-0" d="-0"/>
+                        <roadMark sOffset="0" width="0.10000000000000001" height="0" type="solid" color="white" laneChange="none" material="standard" weight="standard"/>
+                    </lane>
+                    <lane id="-2" type="driving" level="true">
+                        <link>
+                            <successor id="-2"/>
+                        </link>
+                        <border sOffset="0" a="-3.5562717373291828" b="-0.00041345615196478058" c="-0" d="-0"/>
+                        <roadMark sOffset="0" width="0.10000000000000001" height="0" type="solid" color="white" laneChange="none" material="standard" weight="standard"/>
+                    </lane>
+                    <lane id="-3" type="driving" level="true">
+                        <link>
+                            <successor id="-3"/>
+                        </link>
+                        <border sOffset="0" a="-6.0699666148506362" b="0.00015080016876384272" c="-0" d="-0"/>
+                        <roadMark sOffset="0" width="0.10000000000000001" height="0" type="solid" color="blue" laneChange="none" material="standard" weight="standard"/>
+                    </lane>
+                </right>
+            </laneSection>
+            <laneSection s="24" singleSide="true">
+                <center>
+                    <lane id="0" type="driving" level="false">
+                        <link/>
+                        <roadMark sOffset="0" width="0.10000000000000001" height="0" type="solid" color="red" laneChange="none" material="standard" weight="standard"/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="true">
+                        <link>
+                            <predecessor id="-1"/>
+                        </link>
+                        <border sOffset="0" a="-1.4950192433853187" b="0.0013128919752605911" c="-0" d="-0"/>
+                        <roadMark sOffset="0" width="0.10000000000000001" height="0" type="solid" color="white" laneChange="none" material="standard" weight="standard"/>
+                    </lane>
+                    <lane id="-2" type="driving" level="true">
+                        <link>
+                            <predecessor id="-2"/>
+                        </link>
+                        <border sOffset="0" a="-3.4958648806917001" b="0.0010568174032500599" c="-0" d="-0"/>
+                        <roadMark sOffset="0" width="0.10000000000000001" height="0" type="solid" color="white" laneChange="none" material="standard" weight="standard"/>
+                    </lane>
+                    <lane id="-3" type="driving" level="true">
+                        <link>
+                            <predecessor id="-3"/>
+                        </link>
+                        <border sOffset="0" a="-5.9875587785803166" b="-0.0010386910314454378" c="-0" d="-0"/>
+                        <roadMark sOffset="0" width="0.10000000000000001" height="0" type="solid" color="red" laneChange="none" material="standard" weight="standard"/>
+                    </lane>
+                </right>
+            </laneSection>
+        </lanes>
+        <objects/>
+        <signals/>
+    </road>
+</OpenDRIVE>

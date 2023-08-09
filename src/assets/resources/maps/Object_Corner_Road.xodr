@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenDRIVE>
+    <header revMajor="1" revMinor="4" name="" version="0" date="2021-04-14T14:49:56" north="32.775315233506262" south="-0.086159510537981987" east="15.003346929559484" west="-2.0607944858493283" vendor="ZF Friedrichshafen AG">
+        <geoReference><![CDATA[+proj=utm +zone=32 +ellps=WGS84 +datum=WGS84 +x_0=535991.63671388861 +y_0=5280515.4001565529 +k=0.9996 +units=m +no_defs]]></geoReference>
+    </header>
+    <road name="Test" length="30" id="1" junction="-1">
+        <link> 
+        </link>
+        <planView>
+            <geometry s="0" x="0" y="0" hdg="0" length="30">
+                <paramPoly3 aU="0" bU="1" cU="0" dU="0" aV="0" bV="0" cV="0" dV="0" pRange="arcLength"/>
+            </geometry>
+        </planView>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes>
+            <laneSection s="0" singleSide="false">
+                <left>
+                    <lane id="1" type="driving" level="true">
+                        <link/>
+                        <border sOffset="0" a="2" b="0" c="0" d="0"/>
+                    </lane>
+                </left>
+                <center>
+                    <lane id="0" type="driving" level="false">
+                        <link/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="true">
+                        <link/>
+                        <border sOffset="0" a="-2" b="0" c="0" d="0"/>
+                    </lane>
+                </right>
+                <right>
+                    <lane id="-1" type="sidewalk" level="true">
+                        <link/>
+                        <border sOffset="0" a="-2.5" b="0" c="0" d="0"/>
+                    </lane>
+                </right>
+            </laneSection>
+        </lanes>
+        <objects>
+            <object type="obstacle" name="unknown" id="4000423" s="0" t="3" zOffset="0" orientation="none" length="1" width="1" height="1" hdg="0">
+                <repeat s="10" length="30" distance="0" tStart="10" tEnd="0" widthStart="1" widthEnd="1" heightStart="1" heightEnd="10" zOffsetStart="1" zOffsetEnd="10" />
+                <repeat s="40" length="30" distance="0" tStart="0" tEnd="10" widthStart="1" widthEnd="1" heightStart="10" heightEnd="1" zOffsetStart="10" zOffsetEnd="1" />
+                <repeat s="0" length="30" distance="2" tStart="0" tEnd="0" widthStart="0" widthEnd="0" heightStart="0" heightEnd="0" zOffsetStart="0" zOffsetEnd="0" />
+                
+                <object type="barrier" name="fence" id="4000246" s="6.2479050167e+01" t="-3.4255773885e+00" zOffset="410.3814" validLength="428.6873" orientation="none">
+        <repeat s="62.479" length="3.316" distance="0.0000000000e+00" tStart="-3.4255773885e+00" tEnd="-3.4804031306e+00" widthStart="1.0000000000e-01" widthEnd="1.0000000000e-01" heightStart="1.9658230000e+00" heightEnd="1.9831140000e+00" zOffsetStart="1.5970546881e-01" zOffsetEnd="1.5740699448e-01" />
+        <repeat s="65.795" length="2.228" distance="0.0000000000e+00" tStart="-3.4804031306e+00" tEnd="-3.2778823491e+00" widthStart="1.0000000000e-01" widthEnd="1.0000000000e-01" heightStart="1.9831140000e+00" heightEnd="1.9835580000e+00" zOffsetStart="1.5740699448e-01" zOffsetEnd="1.5375121154e-01" />
+       
+        <repeat s="72.1" length="3.1" distance="0.0000000000e+00" tStart="-3.4255773885e+00" tEnd="-3.4804031306e+00" widthStart="1.0000000000e-01" widthEnd="1.0000000000e-01" heightStart="1.9658230000e+00" heightEnd="1.9831140000e+00" zOffsetStart="1.5970546881e-01" zOffsetEnd="1.5740699448e-01" />
+        <repeat s="75.2" length="2" distance="0.0000000000e+00" tStart="-3.4804031306e+00" tEnd="-3.2778823491e+00" widthStart="1.0000000000e-01" widthEnd="1.0000000000e-01" heightStart="1.9831140000e+00" heightEnd="1.9835580000e+00" zOffsetStart="1.5740699448e-01" zOffsetEnd="1.5375121154e-01" />
+      
+       </object>
+            </object>
+            <object type="obstacle" name="unknown" id="4000423" s="0" t="3" zOffset="0" orientation="none" length="10" width="10" height="1" hdg="0">
+                <outline>
+                    <cornerRoad s="20" t="3" dz="0" height="0" />
+                    <cornerRoad s="15" t="6" dz="0" height="0" />
+                    <cornerRoad s="20" t="9" dz="0" height="0" />
+                    <cornerRoad s="30" t="9" dz="0" height="0" />
+                    <cornerRoad s="30" t="3" dz="0" height="0" />
+                    <cornerRoad s="20" t="3" dz="0" height="0" />
+                </outline>
+            </object>
+            <object type="obstacle" name="unknown" id="4000423" s="0" t="-3" zOffset="0" orientation="none" length="10" width="10" height="1" hdg="0">
+                <outline>
+                    <cornerRoad s="20" t="-3" dz="0" height="2" />
+                    <cornerRoad s="15" t="-6" dz="0" height="3" />
+                    <cornerRoad s="20" t="-9" dz="0" height="4" />
+                    <cornerRoad s="30" t="-9" dz="0" height="3" />
+                    <cornerRoad s="30" t="-3" dz="0" height="2" />
+                    <cornerRoad s="20" t="-3" dz="0" height="2" />
+                </outline>
+            </object>
+        </objects>
+        <signals/>
+    </road>
+</OpenDRIVE>

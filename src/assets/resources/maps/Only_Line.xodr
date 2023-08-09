@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenDRIVE>
+    <header revMajor="1" revMinor="4" name="" version="0" date="" north="0" south="0" east="0" west="0" vendor="">
+        <geoReference><![CDATA[+proj=utm +zone=31 +ellps=WGS84 +datum=WGS84 +x_0=606153.28083696286 +y_0=5751740.27009915 +k=0.9996 +units=m +no_defs]]></geoReference>
+    </header>
+    <road name="" length="42.24220622450278" id="1" junction="-1">
+        <link/>
+        <planView>
+            <geometry s="0" x="3.2304050952661783" y="1.3604200519621372" hdg="1.9711417375418792" length="42.24220622450278">
+                <line/>
+            </geometry>
+        </planView>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes>
+            <laneSection s="0" singleSide="false">
+                <left>
+                    <lane id="1" type="driving" level="true">
+                        <link/>
+                        <border sOffset="0" a="3.5051814153094858" b="-6.4124561484357745e-07" c="0" d="0"/>
+                    </lane>
+                </left>
+                <center>
+                    <lane id="0" type="driving" level="false">
+                        <link/>
+                        <roadMark sOffset="0" width="0" height="0" type="broken" color="white" laneChange="none" material="standard" weight="standard"/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="true">
+                        <link/>
+                        <border sOffset="0" a="-3.5051607903508955" b="6.7007100255922492e-07" c="-0" d="-0"/>
+                    </lane>
+                </right>
+            </laneSection>
+        </lanes>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="2" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="3" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="4" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="5" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="6" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="7" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="8" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="9" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="10" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="11" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="12" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="13" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="14" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="15" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="16" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="17" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="18" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="19" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="20" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="21" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="22" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="23" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="24" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="25" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="26" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="27" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="28" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="29" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="30" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="31" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="32" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="33" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="34" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="35" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="36" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="37" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="38" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="39" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="40" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="41" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="42" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="43" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="44" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="45" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="46" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="47" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="48" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="49" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="50" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="51" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="52" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="53" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="54" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="55" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="56" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="57" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="58" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="59" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="60" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+    <road name="" length="0" id="61" junction="-1">
+        <link/>
+        <planView/>
+        <elevationProfile/>
+        <lateralProfile/>
+        <lanes/>
+        <objects/>
+        <signals/>
+    </road>
+</OpenDRIVE>
